@@ -96,7 +96,7 @@ const USER_CONFIG = {
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
         //第一次见面
-        { keyword: 'firstMeet_day', date: '2020-04-07' },
+        { keyword: 'firstMeet_day', date: '2021-04-07' },
         // 退伍日
         { keyword: 'ex_day', date: '2022-09-10' }
       ],
