@@ -67,11 +67,11 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'op4Fg55OdJUSJ4IBKJ7Lfkn5Aexk',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'CxDSC8izY9gMe_AC6MrUTiXR9CaM-_6ijruUg32c-BA',
+      useTemplateId: 'cy2Qp6Wqav6yJHxX9PpOCPtTTN8vHT743LoWgvEL60k',
       // 所在省份
-      province: '北京市',
+      province: '北京',
       // 所在城市
-      city: '朝阳区',
+      city: '北京市',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '11-30',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -84,9 +84,6 @@ const USER_CONFIG = {
         {
           type: '生日', name: '任憨憨', year: '1996', date: '11-30',
         },
-        {
-          type: '节日', name: '第一次见面日', year: '2020', date: '04-07',
-        },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '生日', name: '王琛', year: '1995', date: '04-09',
@@ -98,6 +95,8 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2022-09-25' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
+        //第一次见面
+        { keyword: 'firstMeet_day', date: '2020-04-07' },
         // 退伍日
         { keyword: 'ex_day', date: '2022-09-10' }
       ],
