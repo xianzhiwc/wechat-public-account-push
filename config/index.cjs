@@ -12,7 +12,7 @@ const USER_CONFIG = {
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '6e54a2dc6db16f55c1e564c62f0bb16e',
+  APP_SECRET: '5ab6af3f084f91cdb8821cf8f310969b',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
