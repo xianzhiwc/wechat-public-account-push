@@ -82,7 +82,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '任憨憨', year: '1996', date: '11-30',
+          type: '生日', name: '任憨憨', year: '1996', date: '11-30',
         },
         {
           type: '节日', name: '第一次见面日', year: '2020', date: '04-07',
