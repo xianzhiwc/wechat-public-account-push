@@ -186,7 +186,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '生日', name: '妹妹', year: '1996', date: '11-30',
+          type: '生日', name: '妹妹', year: '1996', date: '08-10',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
@@ -195,7 +195,7 @@ const USER_CONFIG = {
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
-        // 在一起的日子
+        // 出生日期
         { keyword: 'birth_day', date: '1998-08-10' },
         //第一次见面
         { keyword: 'firstMeet_day', date: '2021-04-07' }
