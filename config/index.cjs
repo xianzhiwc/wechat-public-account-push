@@ -65,9 +65,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '任憨憨',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'op4Fg5zhdLDiWyhT0NCk5h9B-U7w',
+      id: 'op4Fg55OdJUSJ4IBKJ7Lfkn5Aexk',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'cy2Qp6Wqav6yJHxX9PpOCPtTTN8vHT743LoWgvEL60k',
+      useTemplateId: 'q2bOsJGjEUg80m1hjsDHW53cu8NY-EW0Gkw9yxlUCaI',
       // 所在省份
       province: '北京',
       // 所在城市
@@ -169,7 +169,7 @@ const USER_CONFIG = {
     {// 想要发送的人的名字
       name: '妹妹',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'op4Fg50-T8SB4yaduqJM6FrEIiEY',
+      id: 'op4Fg55OdJUSJ4IBKJ7Lfkn5Aexk',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: '8HoVAFry2VmWEQnCb4VUPiLDHdD54Vy5GFYOuXQ1p_Y',
       // 所在省份
@@ -219,7 +219,7 @@ const USER_CONFIG = {
       // 一般都填自己
       name: '自己',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'op4Fg55OdJUSJ4IBKJ7Lfkn5Aexk',
+      id: 'oVqMmm1ZyylwX_KkMByMXY26SbQU4FAU2J0PNXhvoX0',
     }
     // 你可以不断按格式往下增加
     // ...
