@@ -65,7 +65,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '任憨憨',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'op4Fg55OdJUSJ4IBKJ7Lfkn5Aexk',
+      id: 'op4Fg5zhdLDiWyhT0NCk5h9B-U7w',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: '18PFamrRKoTCCp99jxOqN4xvDgdFKVvFML3BAfvk3T8',
       // 所在省份
@@ -169,9 +169,9 @@ const USER_CONFIG = {
     {// 想要发送的人的名字
       name: '妹妹',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'op4Fg55OdJUSJ4IBKJ7Lfkn5Aexk',
+      id: 'op4Fg50-T8SB4yaduqJM6FrEIiEY',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '8HoVAFry2VmWEQnCb4VUPiLDHdD54Vy5GFYOuXQ1p_Y',
+      useTemplateId: '2CUdgfJMpuekN7rU3xCkyeWTLBTP2FxX5SC_PcoYwxg',
       // 所在省份
       province: '甘肃省',
       // 所在城市
